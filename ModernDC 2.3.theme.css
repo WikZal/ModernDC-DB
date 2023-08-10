@@ -1,0 +1,35 @@
+/**
+ * @name ModernDC 2
+ * @description Modernistyczny Ciemny Motyw Discord
+ * @author WikZal
+ * @authorLink https://github.com/WikZal
+ * @version 2.1
+ * @website https://github.com/WikZal
+ * @source https://github.com/WikZal
+*/
+
+/* Base theme file, don't disable */
+
+@import url("https://tiredmala.github.io/Roundmoled/main.css");
+
+/*                                Optional stuff ( delete the /⃰ ⃰/ on top and below the import to enable them)                     */
+
+
+/*
+@import "https://tiredmala.github.io/Roundmoled/optional/blur.css";
+*/
+
+/*
+@import "https://tiredmala.github.io/Roundmoled/optional/optional2.css";
+*/
+
+/*
+@import "https://tiredmala.github.io/Roundmoled/optional/optional3.css";
+*/
+
+/*                                Alternative color palettes                                                                      */ 
+
+
+/*
+@import "https://tiredmala.github.io/Roundmoled/palettes/roundturnal.css";
+*/
